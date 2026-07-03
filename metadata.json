@@ -1,0 +1,6 @@
+{
+  "name": "EduVote Pro",
+  "description": "Digital School EVM System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
